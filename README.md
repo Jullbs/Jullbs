@@ -4,7 +4,7 @@
 
 🖥️ I’m studying to be a front-end web developer.
 
- I'm currently learning:  <img src='https://skills.thijs.gg/icons?i=html,css,react,js,ts' alt='skills' height='25'>
+ I'm currently learning:  <img src='https://skills.thijs.gg/icons?i=react,ts,nextjs,js,git,html,css' alt='skills' height='25'>
 
 ☕ Love some coffee and dogs 🐶
 
