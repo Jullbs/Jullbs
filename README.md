@@ -8,9 +8,13 @@
 
 And in my free time I play some games. 🎮
 
- ### I'm currently learning:  
+ ### What I use:  
  
- <img src='https://skills.thijs.gg/icons?i=react,ts,nextjs,js,git,html,css' alt='skills' height='35'>
+ <img src='https://skills.thijs.gg/icons?i=react,ts,nextjs,tailwind,styledcomponents,js,git,html,css,figma' alt='skills' height='35'>
+ 
+ ### I'm currently learning: 
+ 
+ <img src='https://skills.thijs.gg/icons?i=graphql,mysql' alt='skills' height='35'>
 
 <!-- -
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jullbs&show_icons=true&theme=aura_dark)  
