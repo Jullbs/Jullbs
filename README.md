@@ -25,7 +25,6 @@ Feel free to contact me:
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/62e3bc" alt='linkedin'>](https://www.linkedin.com/in/julianadaroz/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/codepen/62e3bc" alt='codepen'>](https://codepen.io/jullbs) 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/62e3bc" alt='instagram'>](https://www.instagram.com/judaroz/)
 
 ![Profile views](https://gpvc.arturio.dev/Jullbs)  
 
