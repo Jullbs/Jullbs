@@ -1,18 +1,16 @@
 ## ʕ•́ᴥ•̀ʔっ Hello there! I’m Juliana
 ***
-### About me:
-
-🖥️ I’m studying to be a front-end web developer.
+#### About me:
 
 ☕ Love some coffee and dogs 🐶
 
 And in my free time I play some games. 🎮
 
- ### What I use:  
+ #### Skills and Languages:  
  
- <img src='https://skills.thijs.gg/icons?i=react,ts,nextjs,tailwind,styledcomponents,js,git,html,css,figma' alt='skills' height='35'>
+ <img src='https://skills.thijs.gg/icons?i=aws,docker,react,ts,nextjs,nodejs,tailwind,styledcomponents,js,git,html,css,figma' alt='skills' height='35'>
  
- ### I'm currently learning: 
+ #### I'm currently learning: 
  
  <img src='https://skills.thijs.gg/icons?i=graphql,mysql' alt='skills' height='35'>
 
@@ -23,10 +21,7 @@ And in my free time I play some games. 🎮
 ***
 Feel free to contact me:
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/62e3bc" alt='linkedin'>](https://www.linkedin.com/in/julianadaroz/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/codepen/62e3bc" alt='codepen'>](https://codepen.io/jullbs) 
-
-![Profile views](https://gpvc.arturio.dev/Jullbs)  
+[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/" alt='linkedin'>](https://www.linkedin.com/in/julianadaroz/)
 
 <!---
 Jullbs/Jullbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
