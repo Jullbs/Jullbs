@@ -7,12 +7,10 @@
 And in my free time I play some games. 🎮
 
  #### Skills and Languages:  
- 
- <img src='https://skills.thijs.gg/icons?i=aws,docker,react,ts,nextjs,nodejs,tailwind,styledcomponents,js,git,html,css,figma' alt='skills' height='35'>
- 
- #### I'm currently learning: 
- 
- <img src='https://skills.thijs.gg/icons?i=graphql,mysql' alt='skills' height='35'>
+ - Cloud: [![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+ - Infrastructure: [![My Skills](https://skillicons.dev/icons?i=terraform,docker,kubernetes,grafana,prometheus,linux,windows)](https://skillicons.dev)
+ - Development:  [![My Skills](https://skillicons.dev/icons?i=python,nodejs)](https://skillicons.dev)
+
 
 <!-- -
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jullbs&show_icons=true&theme=aura_dark)  
@@ -21,7 +19,7 @@ And in my free time I play some games. 🎮
 ***
 Feel free to contact me:
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/" alt='linkedin'>](https://www.linkedin.com/in/julianadaroz/)
+[<img height="32" width="32" src="https://skillicons.dev/icons?i=linkedin" alt='linkedin'>](https://www.linkedin.com/in/julianadaroz/)
 
 <!---
 Jullbs/Jullbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
